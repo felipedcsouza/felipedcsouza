@@ -1,5 +1,5 @@
-<h1 aling=center>Hi there👋</h1>
-<h2 aling=center>my name is Felipe</h2>
+<h1 aling="center">Hi there👋</h1>
+<h3 aling="center">my name is Felipe</h2>
 
 
 
